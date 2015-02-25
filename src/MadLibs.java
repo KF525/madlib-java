@@ -31,9 +31,9 @@ public class MadLibs {
         }
 
         for (int i = 0; i < libs.size(); i++) {
-            System.out.print( mads.get(i) + libs.get(i));
+            System.out.print(mads.get(i) + libs.get(i));
         }
-        System.out.print( mads.get(6));
+        System.out.print(mads.get(6));
 
     }
 }
